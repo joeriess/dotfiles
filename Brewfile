@@ -12,6 +12,8 @@ brew "spaceship"
 brew "jq"
 brew "gnupg"
 brew "commitizen"
+brew "shfmt"
+brew "ripgrep"
 
 cask "iterm2"
 cask "homebrew/cask-versions/firefox-developer-edition"
